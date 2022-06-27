@@ -40,3 +40,15 @@ Now you should be able to see an active worker node in the console.
 <p align="center">
       <img width="800" src="https://user-images.githubusercontent.com/96646600/175969779-a7d32428-f2c0-4757-9c15-a9a3932ddf8b.jpg">
 </p>
+
+## Execution Instructions
+We will perform some basic operations with Apache Spark in local standalone instance to gain hands-on experience of working with spark environment. The task listed below is what we'll be working on when executing jobs:
+
+Write pyspark/scala program:
+1. Read csv file into dataframe
+2. Write the data in the above dataframe to local filesystem in delta format
+3. Read the above data written in the delta format into dataframe
+4. Show record count for above dataframe
+
+
+Each task's instructions will be stated clearly, so make sure to follow the steps as directed.
