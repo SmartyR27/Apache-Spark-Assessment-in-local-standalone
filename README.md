@@ -50,5 +50,6 @@ Write pyspark/scala program:
 3. Read the above data written in the delta format into dataframe
 4. Show record count for above dataframe
 
+<i>In this section, we will be working on jobs/tasks using command prompt. You can make use of command prompt or other command line interpreter or IDE for executing jobs as per your convenience. </i>
 
-Each task's instructions will be stated clearly, so make sure to follow the steps as directed.
+<b> Each task's instructions will be stated clearly, so make sure to follow the steps as directed. </b>
