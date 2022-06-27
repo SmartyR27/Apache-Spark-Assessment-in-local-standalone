@@ -1,1 +1,1 @@
-# Apache-Spark-Assessment-in-local-standalone
+# Job Application in local standalone apache spark
