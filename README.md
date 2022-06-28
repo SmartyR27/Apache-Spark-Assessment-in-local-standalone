@@ -76,19 +76,24 @@ Task-1) Read csv file into dataframe : In the task we are supposed to read csv f
  
  Instructions to set <b>master node</b> in spark shell using command prompt :
  
- 1. <i>Go to command prompt, run script :</i>                                                                                                                                                                      
-                           
+ 1. <i>Go to command prompt, run script:</i>
+ 
                                      \ from pyspark import SparkConf, SparkContext
                                      \ conf = SparkConf().setAppName(#EnterTaskPredefinedName).setMaster(#urlgeneratedduringsetup)
                                      \ sc = SparkContext(conf=conf)
                                      \ sc
                                      
    <p align = "center">
-        <img width = "700" src="https://user-images.githubusercontent.com/96646600/176135779-675689aa-7359-45b8-9146-36e771a6fb33.jpg">
+        <img width = "450" src="https://user-images.githubusercontent.com/96646600/176135779-675689aa-7359-45b8-9146-36e771a6fb33.jpg">
     </p>
-    <i>Verifying the setup done: </i>
+                                                                                                                                                                      
+                           
+                                    
+2. <i>Verifying the setup done: </i>
     
    <p align="center">
-        <img width = "800" src = "https://user-images.githubusercontent.com/96646600/176138377-6eb57bdf-27f7-4319-8e70-4a23b4ad42a8.jpg">
+        <img width = "500" src = "https://user-images.githubusercontent.com/96646600/176138377-6eb57bdf-27f7-4319-8e70-4a23b4ad42a8.jpg">
    </p> 
     
+Instructions for executing the task :   
+1. <i> Go to command prompt, run script:</i> 
