@@ -97,7 +97,7 @@ Task-1) Read csv file into dataframe : In the task we are supposed to read csv f
     
 Instructions for executing the task :   
 1. <i> Go to command prompt, run script:</i> 
-       
+      
        # read csv file into dataframe
        
        \ from pyspak.sql import SparkSession    # introducing sparksession
@@ -108,6 +108,10 @@ Instructions for executing the task :
    <p align = "center">
         <img width = "600" src = "https://user-images.githubusercontent.com/96646600/176157351-e68d4539-f4c6-45ba-9ac6-fe6ac1f45ae4.jpg">
     </p>
+2. csv file : <i>[link for your reference](https://github.com/SmartyR27/local-spark-standalone/blob/cff7f7ab32a88fb3ca024eb5e23376c03a81da7d/people.csv)</i>
+3. Validation of task in worker node :
+   <p align = "center">
+        <img width = "600" src ="https://user-images.githubusercontent.com/96646600/176165506-c4131105-cb63-46ba-9b2c-904af0c25fa7.jpg">
+    </p>    
 
-csv file for your reference : []
             
