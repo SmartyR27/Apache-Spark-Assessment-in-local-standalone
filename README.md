@@ -185,7 +185,7 @@ Instructions for executing the task:
 
 ### Supporting Information
 
-1. You may face problem or error while performing task-2/task-3/task-4, I will suggest you to download <i>hadoop.dll</i> file from the link shared and copy the path and paste on the same location where you paste it for file ~ <i>winutils</i>. [hadoop.dll](https://github.com/cdarlint/winutils/blob/d018bd9c919dee1448b95519351cc591a6338a00/hadoop-3.2.1/bin/hadoop.dll) file for spark -version (3.1.2)
+1. You may face problem or error while performing task-2/task-3/task-4, I will suggest you to download <i>hadoop.dll</i> file from the link shared and copy the path and paste on the same location where you paste it for file ~ <i>winutils</i>. [hadoop.dll](https://github.com/cdarlint/winutils/blob/d018bd9c919dee1448b95519351cc591a6338a00/hadoop-3.2.1/bin/hadoop.dll) file for spark -version (3.1.2).
 
 2. While working jupyter notebook, it is no need to do early setup before execution of tasks, instead of it you can import ~ <i>findspark</i> library and simultaneously initiates it using ~ <i>findspark.init()</i>. And all remains the same.
   
