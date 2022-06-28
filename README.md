@@ -130,3 +130,13 @@ Instructions for executing the task :
        
 
 2. Validation of task in worker node:
+ <p align = "center">
+        <img width = "600" src ="https://user-images.githubusercontent.com/96646600/176184375-c8cefb19-9199-4864-bbe1-ddfbad623020.jpg">
+    </p>
+    
+    
+Task-3) Read the above data written in the delta format into dataframe :
+
+Instructions for executing the task:
+
+
