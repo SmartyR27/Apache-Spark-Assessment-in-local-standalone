@@ -109,7 +109,7 @@ Instructions for executing the task :
         <img width = "600" src = "https://user-images.githubusercontent.com/96646600/176157351-e68d4539-f4c6-45ba-9ac6-fe6ac1f45ae4.jpg">
     </p>
 2. csv file : <i>[link for your reference](https://github.com/SmartyR27/local-spark-standalone/blob/cff7f7ab32a88fb3ca024eb5e23376c03a81da7d/people.csv)</i>
-3. Validation of task in worker node :
+3. Validation of task in master node :
    <p align = "center">
         <img width = "600" src ="https://user-images.githubusercontent.com/96646600/176165506-c4131105-cb63-46ba-9b2c-904af0c25fa7.jpg">
     </p>    
@@ -129,7 +129,7 @@ Instructions for executing the task :
 
        
 
-2. Validation of task in worker node:
+2. Validation of task in master node:
  <p align = "center">
         <img width = "600" src ="https://user-images.githubusercontent.com/96646600/176184375-c8cefb19-9199-4864-bbe1-ddfbad623020.jpg">
     </p>
@@ -153,7 +153,7 @@ Instructions for executing the task:
       <p align = "center">
              <img width = "700" src = "https://user-images.githubusercontent.com/96646600/176195476-c8227e79-2b6e-4eae-84e7-938355187984.jpg">
         </p>
-2. Validation of task in worker node: 
+2. Validation of task in master node: 
  <p align = "center">
              <img width = "700" src = "https://user-images.githubusercontent.com/96646600/176196462-1e246095-73ef-4058-8cad-77bb2c98032e.jpg">
     </p>
