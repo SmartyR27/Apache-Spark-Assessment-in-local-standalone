@@ -115,3 +115,10 @@ Instructions for executing the task :
     </p>    
 
             
+Task-2) Write the data in the above dataframe to local filesystem in delta format :
+
+Instructions for executing the task :
+
+       # write the data-dataframe to local filesystem in delta format
+       
+       \ delta_f = data_f.coalesce(1).write.format("delta").option("header","true").format("csv").save(./filepath)    # saving csv file into local file in delta format
