@@ -162,7 +162,19 @@ Task-4) Show record count for above dataframe:
 
 Instructions for executing the task:
 
-1. <i>Go to command prompt, run scripts:</i>
+1. <i>Go to command prompt, run script:</i>
+
+                     # Show record count for dataframe
+                        
+                     \ r_delta_f.count()         # number of records in a dataframe
+      <p align = "center">
+            <img hieght = "300" width = "700" src = "https://user-images.githubusercontent.com/96646600/176202571-7655584b-3553-42f6-b1e3-2d4f54992865.jpg">
+        </p>
+2. <i> Validation of task in master node: </i>
+        
+   <p align="center">
+        < img width="600" src="
 
 
-
+                     
+                     
