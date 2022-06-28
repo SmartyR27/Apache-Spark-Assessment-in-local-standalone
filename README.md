@@ -70,4 +70,4 @@ As mentioned above, beginning to work on tasks in command prompt, we must run a 
 </p>
 
 
-01) Read csv file into dataframe :
+#### Working on operations
