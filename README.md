@@ -71,3 +71,5 @@ As mentioned above, beginning to work on tasks in command prompt, we must run a 
 
 
 #### Working on operations
+
+1. Task : Read csv file into dataframe
