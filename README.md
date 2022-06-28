@@ -79,7 +79,7 @@ Task-1) Read csv file into dataframe : In the task we are supposed to read csv f
  1. <i>Go to command prompt, run script:</i>
  
                                      \ from pyspark import SparkConf, SparkContext
-                                     \ conf = SparkConf().setAppName(#EnterTaskPredefinedName).setMaster(#urlgeneratedduringsetup)
+                                     \ conf = SparkConf().setAppName(#TaskPredefinedName).setMaster(#urlgeneratedduringsetup)
                                      \ sc = SparkContext(conf=conf)
                                      \ sc
                                      
@@ -97,3 +97,17 @@ Task-1) Read csv file into dataframe : In the task we are supposed to read csv f
     
 Instructions for executing the task :   
 1. <i> Go to command prompt, run script:</i> 
+       
+       # read csv file into dataframe
+       
+       \ from pyspak.sql import SparkSession    # introducing sparksession
+       \ spark = SparkSession.builder.master(#url).appName(#TaskPredefinedName).getOrCreate() # performing task in standalone cluster
+       \ data_f = spark.read.csv(/#file-path.csv , header = True, inferSchema = True)    # reading csv file into spark dataframe
+       \ data_f.printSchema()   # schema of dataframe
+       
+   <p align = "center">
+        <img width = "600" src = "https://user-images.githubusercontent.com/96646600/176157351-e68d4539-f4c6-45ba-9ac6-fe6ac1f45ae4.jpg">
+    </p>
+
+csv file for your reference : []
+            
