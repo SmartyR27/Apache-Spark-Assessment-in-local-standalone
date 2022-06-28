@@ -4,7 +4,7 @@ The repository includes the setup of a local standalone cluster of apache spark 
 
 This repository comprises of two sections : 
 1. Setup Instructions
-2. Execution Instructions with task examples
+2. Execution Instructions by examples
 
 ## Setup Instructions
 
@@ -55,4 +55,19 @@ Write pyspark/scala program:
 <b> Each task's instructions will be stated clearly, so make sure to follow the steps as directed. </b>
 
 ### Operations
+
+As mentioned above, beginning to work on tasks in command prompt, we must run a script (<i>sc.stop()</i>) on command prompt before starting working on tasks in standalone instance. This is because when <i>pyspark</i> is started from a command prompt, a built-in <i>sparkcontext</i> is created, and as a result, working on a standalone cluster will result in an error because only one <i>sparkcontext</i> can be active at a time.
+
+<i> Go to cmd and start with script : \pyspark </i> 
+
+<p align="center">
+      <img height = "250" src="https://user-images.githubusercontent.com/96646600/176119601-dc8952b3-a2cf-491a-a743-fcfc8d826522.jpg">
+</p>
+
+<i>Now, run cmd with script : \sc.stop() </i>
+<p align="center">
+      <img height = "150" src="https://user-images.githubusercontent.com/96646600/176121884-5d422b39-dc48-4625-b1b1-cbe59b3aa5ad.jpg">
+</p>
+
+
 01) Read csv file into dataframe :
