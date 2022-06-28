@@ -139,4 +139,30 @@ Task-3) Read the above data written in the delta format into dataframe :
 
 Instructions for executing the task:
 
+1. <i>Go to command prompt, run script:</i>
+
+                    # Read data written in the delta format into dataframe
+                    
+                    \ r_delta_f = spark.read.format("delta").option("header","true").csv(./filepath)  #spark dataframe
+                    \ r_delta_f.show()
+                    \ r_delta_f
+                    
+                    or
+                    \ r_delta_f.toPandas()    # pandas dataframe
+                    
+      <p align = "center">
+             <img width = "700" src = "https://user-images.githubusercontent.com/96646600/176195476-c8227e79-2b6e-4eae-84e7-938355187984.jpg">
+        </p>
+2. Validation of task in worker node: 
+ <p align = "center">
+             <img width = "700" src = "https://user-images.githubusercontent.com/96646600/176196462-1e246095-73ef-4058-8cad-77bb2c98032e.jpg">
+    </p>
+    
+Task-4) Show record count for above dataframe:
+
+Instructions for executing the task:
+
+1. <i>Go to command prompt, run scripts:</i>
+
+
 
