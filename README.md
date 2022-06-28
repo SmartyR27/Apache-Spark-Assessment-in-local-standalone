@@ -118,7 +118,15 @@ Instructions for executing the task :
 Task-2) Write the data in the above dataframe to local filesystem in delta format :
 
 Instructions for executing the task :
+1. <i> Go to command prompt, run script:</i> 
 
        # write the data-dataframe to local filesystem in delta format
        
        \ delta_f = data_f.coalesce(1).write.format("delta").option("header","true").format("csv").save(./filepath)    # saving csv file into local file in delta format
+     <p align = "center">
+        <img width = "700" src = "https://user-images.githubusercontent.com/96646600/176178998-a3dd0948-cf28-47ca-9d73-44a218978354.jpg">
+     </p>
+
+       
+
+2. Validation of task in worker node:
