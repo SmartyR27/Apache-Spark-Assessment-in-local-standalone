@@ -185,8 +185,9 @@ Instructions for executing the task:
 
 ### Supporting Information
 
-You may face problem or error while performing task-2/task-3/task-4, I will suggest you to download <i>hadoop.dll</i> file from the link shared and copy the path and paste on the same location where you paste it for file ~ <i>winutils</i>.
+1. You may face problem or error while performing task-2/task-3/task-4, I will suggest you to download <i>hadoop.dll</i> file from the link shared and copy the path and paste on the same location where you paste it for file ~ <i>winutils</i>.
 
+2. While working jupyter notebook, it is no need to do early setup before execution of tasks, instead of it you can import ~ <i>findspark</i> library and simultaneously initiates it using ~ <i>findspark.init()</i>.
   
               
 
