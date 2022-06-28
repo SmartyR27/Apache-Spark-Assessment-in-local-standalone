@@ -1,0 +1,41 @@
+person_ID,name,first,last,middle,email,phone,fax,title
+person_ID,"Burks, Rosella ",Rosella,Burks,,BurksR@univ.edu,963.555.1253,963.777.4065,Professor 
+person_ID,"Avila, Damien ",Damien,Avila,,AvilaD@univ.edu,963.555.1352,963.777.7914,Professor 
+person_ID,"Olsen, Robin ",Robin,Olsen,,OlsenR@univ.edu,963.555.1378,963.777.9262,Assistant Professor
+person_ID,"Moises, Edgar Estes",Edgar,Moises,Estes,MoisesE@univ.edu,963.555.2731x3565,963.777.8264,Professor
+person_ID,"Brian, Heath Pruitt",Heath,Brian,Pruitt,BrianH@univ.edu,963.555.2800,963.777.7249,Associate Curator 
+person_ID,"Claude, Elvin Haney",Elvin,Claude,Haney,ClaudeE@univ.edu,963.555.2902,963.777.9730,Curator
+person_ID,"Mosley, Edmund ",Edmund,Mosley,,MosleyE@univ.edu,963.555.2945,963.777.9285,Assistant Professor
+person_ID,"Derek, Antoine Mccoy",Antoine,Derek,Mccoy,DerekA@univ.edu,963.555.2992,963.777.5454,Curator
+person_ID,"Hawkins, Callie ",Callie,Hawkins,,HawkinsC@univ.edu,963.555.3350x6480,963.777.4949,Professor
+person_ID,"Pate, Andrea ",Andrea,Pate,,PateA@univ.edu,963.555.3723,963.777.5049,Professor
+person_ID,"Austin, Liz ",Liz,Austin,,AustinL@univ.edu,963.555.4305,963.777.6143,Assistant Professor
+person_ID,"Kendrick, Reba Alford",Reba,Kendrick,Alford,KendrickR@univ.edu,963.555.4618x7744,963.777.4371,Associate Curator 
+person_ID,"Sims, Angelina ",Angelina,Sims,,SimsA@univ.edu,963.555.5278,963.777.4400,Professor
+person_ID,"Mullins, Kimberly ",Kimberly,Mullins,,MullinsK@univ.edu,963.555.5471x1017,963.777.9783,Assistant Professor
+person_ID,"Chuck, Lloyd Haney",Lloyd,Chuck,Haney,ChuckL@univ.edu,963.555.5568x2652,963.777.9290,Assistant Professor
+person_ID,"Payne, Ladonna ",Ladonna,Payne,,PayneL@univ.edu,963.555.5639,963.777.6469,Professor
+person_ID,"Baxter, Johnathan Browning",Johnathan,Baxter,Browning,BaxterJ@univ.edu,963.555.5902,963.777.8336,Research Professor
+person_ID,"Weiss, Gilbert ",Gilbert,Weiss,,WeissG@univ.edu,963.555.5969,963.777.4975,Professor
+person_ID,"Deirdre, Florence Barrera",Florence,Deirdre,Barrera,DeirdreF@univ.edu,963.555.6319,963.777.9654,Associate Curator 
+person_ID,"Fernando, Toby Calderon",Toby,Fernando,Calderon,FernandoT@univ.edu,963.555.6469,963.777.9864,Research Professor
+person_ID,"Garrison, Patrica ",Patrica,Garrison,,GarrisonP@univ.edu,963.555.6760,963.777.4958,Associate Curator 
+person_ID,"Effie, Leila Vinson",Leila,Effie,Vinson,EffieL@univ.edu,963.555.6824,963.777.7299,Assistant Professor
+person_ID,"Buckley, Rose ",Rose,Buckley,,BuckleyR@univ.edu,963.555.6855x5018,963.777.5233,Curator
+person_ID,"Stanton, Kathie ",Kathie,Stanton,,StantonK@univ.edu,963.555.7095,963.777.1015,Professor
+person_ID,"Banks, Shannon ",Shannon,Banks,,BanksS@univ.edu,963.555.7198,963.777.6979,Professor
+person_ID,"Barnes, Cleo ",Cleo,Barnes,,BarnesC@univ.edu,963.555.7463x7335,963.777.1583,Research Professor
+person_ID,"Brady, Nellie ",Nellie,Brady,,BradyN@univ.edu,963.555.7569,963.777.7218,Curator
+person_ID,"Katheryn, Ruben Holt",Ruben,Katheryn,Holt,KatherynR@univ.edu,963.555.7578,963.777.3969,Assistant Professor
+person_ID,"Michael, Dianne ",Dianne,Michael,,MichaelD@univ.edu,963.555.7592,963.777.9960,Assistant Professor
+person_ID,"Grant, Adam ",Adam,Grant,,GrantA@univ.edu,963.555.7775,963.777.8115,Research Professor
+person_ID,"Head, Kurtis ",Kurtis,Head,,HeadK@univ.edu,963.555.7882,963.777.6348,Professor
+person_ID,"Berger, Jami ",Jami,Berger,,BergerJ@univ.edu,963.555.8158,963.777.5650,Research Professor
+person_ID,"Earline, Jaime Fitzgerald",Jaime,Earline,Fitzgerald,EarlineJ@univ.edu,963.555.8357,963.777.4114,Associate Curator 
+person_ID,"Evelyn, Summer Frost",Summer,Evelyn,Frost,EvelynS@univ.edu,963.555.8895,963.777.5730,Professor 
+person_ID,"Quentin, Sam Hyde",Sam,Quentin,Hyde,QuentinS@univ.edu,963.555.8921,963.777.2712,Assistant Professor
+person_ID,"Dunlap, Ann ",Ann,Dunlap,,DunlapA@univ.edu,963.555.9067,963.777.4290,Assistant Professor
+person_ID,"Shields, Rich Pena",Rich,Shields,Pena,ShieldsR@univ.edu,963.555.9197,963.777.7215,Professor 
+person_ID,"Page, Winnie ",Winnie,Page,,PageW@univ.edu,963.555.9366,963.777.3202,Curator
+person_ID,"Sparks, Ezra ",Ezra,Sparks,,SparksE@univ.edu,963.555.9390,963.777.9273,Assistant Professor
+person_ID,"Kaufman, Elba ",Elba,Kaufman,,KaufmanE@univ.edu,963.555.9507,963.777.3298,Professor
