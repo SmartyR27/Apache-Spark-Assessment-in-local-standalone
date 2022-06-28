@@ -173,8 +173,19 @@ Instructions for executing the task:
 2. <i> Validation of task in master node: </i>
         
    <p align="center">
-        < img width="600" src="
+        <img width="600" src= "https://user-images.githubusercontent.com/96646600/176205054-2c54584b-61a7-4e46-97dc-5071ee48dfd5.jpg">
+    </p>
+    
+    
+#### Master Node : Status
+<p align = "center">
+      <img width = "700" src="https://user-images.githubusercontent.com/96646600/176206794-99a2bf85-373d-4588-a641-9f9bbde8462d.jpg">
+    </p>
 
+
+
+  
+              
 
                      
                      
